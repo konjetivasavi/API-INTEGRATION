@@ -22,4 +22,4 @@ The JavaScript provides the interactive behavior and handles communication with 
 In summary, this weather app is an excellent beginner-friendly project that demonstrates the integration of front-end technologies (HTML, CSS, and JavaScript) with a real-world API. It enhances user experience through clean design, real-time data updates, and simple validation, serving as a great starting point for learning full-stack web development.
 
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/b4b524d4-9a2e-417a-aacc-166798baed8a)
